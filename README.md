@@ -1,5 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://park.vk.company/curriculum/certificates/download/1986/d65d4e5d-da33-4b78-a1a7-a83e0137b46c/" target="_blank">Vitaly</a> </h1>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/vitaliknow3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="vitaliknow3" height="30" width="40" /></a>
+
+</p>
 <!--
 **vitaliknow/vitaliknow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
