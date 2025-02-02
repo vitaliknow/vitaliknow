@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vitaly </h1>
+<h1 align="center">Hello 👋, I'm Vitaly </h1>
 
 - 🌱 I’m currently learning Statistics
 
