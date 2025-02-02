@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/vitaliknow3" target="blank"><img align="center" src="src/socials/web.telegram.org.svg.source" height="30" width="40" /></a>
+<a href="https://t.me/vitaliknow3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" /></a>
 
 </p>
 <!--
