@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://park.vk.company/curriculum/certificates/download/1986/d65d4e5d-da33-4b78-a1a7-a83e0137b46c/" target="_blank">Vitaly</a> </h1>
+<h1 align="center">Hi there, I'm Vitaly </h1>
 
 - 🌱 I’m currently learning Statistics
 
